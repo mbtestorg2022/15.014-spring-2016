@@ -33,28 +33,279 @@ The course is a combination of lectures, simulation exercises and cases. The gra
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**BBNN Framework**{{< /td-colspan >}} |||
-| 1 | PROMISE (Part I) | &nbsp; |
-| 2 | BBNN: Internal and External Adjustment | &nbsp; |
-| 3 | Short Run Adjustment: ASAD | &nbsp; |
-| 4 | Automatic Adjustment and External Account Measurement | Case Question 1 due |
-| 5 | Shocks to BB and NN | &nbsp; |
-| 6 | Social Peace Line and Political Cycles | Case Question 2 due |
-| 7 | Environmental Restriction Line | &nbsp; |
-| 8 | Offshoring Exercise | Case Question 3 due |
-| {{< td-colspan 3 >}}**Economic Policy**{{< /td-colspan >}} |||
-| 9 | Fish Banks and Pareto Efficiency | &nbsp; |
-| 10 | Market Faillure: Natural Monopolies: Natural Resources | &nbsp; |
-| 11 | Market Faillure: Crime, Corruption, and Institutions | &nbsp; |
-| 12 | Market Faillure: Public Goods: Social Security | Case Question 4 due |
-| 13 | Market Faillure: Public Choice: Democracy | &nbsp; |
-| 14 | Market Faillure: Externalities: Lobsters and Taxes | Case Question 5 due |
-| 15 | Market Faillure: Unaceptable Outcomes: Poverty and Inequality | Case Question 6 due |
-| {{< td-colspan 3 >}}**New Technologies**{{< /td-colspan >}} |||
-| 16 | New Technologies: Cryptocurrencies | &nbsp; |
-| 17 | New Technologies: Payment Systems | &nbsp; |
-| 18 | New Technologies: Economic Measurement | &nbsp; |
-| 19 | PROMISE (Part II) | &nbsp; |
-| 20 | Life through Others |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**BBNN Framework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+PROMISE (Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+BBNN: Internal and External Adjustment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Short Run Adjustment: ASAD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Automatic Adjustment and External Account Measurement
+{{< tdclose >}}
+{{< tdopen >}}
+Case Question 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Shocks to BB and NN
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Social Peace Line and Political Cycles
+{{< tdclose >}}
+{{< tdopen >}}
+Case Question 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Restriction Line
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Offshoring Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+Case Question 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Economic Policy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Fish Banks and Pareto Efficiency
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Market Faillure: Natural Monopolies: Natural Resources
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Market Faillure: Crime, Corruption, and Institutions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Market Faillure: Public Goods: Social Security
+{{< tdclose >}}
+{{< tdopen >}}
+Case Question 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Market Faillure: Public Choice: Democracy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Market Faillure: Externalities: Lobsters and Taxes
+{{< tdclose >}}
+{{< tdopen >}}
+Case Question 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Market Faillure: Unaceptable Outcomes: Poverty and Inequality
+{{< tdclose >}}
+{{< tdopen >}}
+Case Question 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**New Technologies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+New Technologies: Cryptocurrencies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+New Technologies: Payment Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+New Technologies: Economic Measurement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+PROMISE (Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Life through Others
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
