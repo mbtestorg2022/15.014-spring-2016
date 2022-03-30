@@ -4,6 +4,7 @@ description: 'Chapter 9 of  Robert Rigobon''s book, Managerial International Mac
   Topics in this book chapter include: external and domestic shocks to the BBNN'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/09a6a1041b7c8be1232c4955565b5381_MIT15_014S16_Chapter9.pdf
 file_type: application/pdf
+parent_uid: 3ccc7f98-8a39-9213-f64c-55bfa65c6dff
 resourcetype: Document
 title: 'Chapter 9: "BBNN: Shocks," Managerial International Macroeconomics (Preliminary
   and incomplete, March 2016)'

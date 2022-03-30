@@ -5,6 +5,7 @@ description: 'Chapter 14 of ROberto Rigobon''s book, Managerial International Ma
   comparative advantage, standard of living'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/c7f9f9e0962fc5fd635ae263da5dfe2e_MIT15_014S16_Chapter14.pdf
 file_type: application/pdf
+parent_uid: 3ccc7f98-8a39-9213-f64c-55bfa65c6dff
 resourcetype: Document
 title: 'Chapter 14: "Trade: Comparative Advantages," Managerial International Macroeconomics
   (Preliminary and incomplete March 2016)'

@@ -5,6 +5,7 @@ description: 'Chapter 12 of Roberto Rigobon''s book, Managerial International Ma
   changes in consumption, changes in production, emerging markets'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/bda191c240cb0394b86b6d5037f8c6e1_MIT15_014S16_Chapter12.pdf
 file_type: application/pdf
+parent_uid: 3ccc7f98-8a39-9213-f64c-55bfa65c6dff
 resourcetype: Document
 title: 'Chapter 12: "BBNN: Sustainability," Managerial International Macroeconomics
   (Preliminary and incomplete, March 2016)'

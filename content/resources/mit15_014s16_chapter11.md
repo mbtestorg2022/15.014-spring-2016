@@ -5,6 +5,7 @@ description: 'Chapter 11 of Roberto Rigobon''s book, Managerial International Ma
   triangle, shocks to the SP line and Europe''s debt in 2011'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/debe183b6ab620db61bbb2539c5119b4_MIT15_014S16_Chapter11.pdf
 file_type: application/pdf
+parent_uid: 3ccc7f98-8a39-9213-f64c-55bfa65c6dff
 resourcetype: Document
 title: 'Chapter 11: "BBNN: Social Peace," Managerial International Macroeconomics
   (Preliminary and incomplete, March 2016)'

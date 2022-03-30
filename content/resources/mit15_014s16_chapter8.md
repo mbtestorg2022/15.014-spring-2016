@@ -5,6 +5,7 @@ description: 'Chapter 8 of Roberto Rigobon''s book, Managerial International Mac
   the adjustment process, and application to the crisis in Spain.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/2ab204533af09602dee9d06124867a7a_MIT15_014S16_Chapter8.pdf
 file_type: application/pdf
+parent_uid: 3ccc7f98-8a39-9213-f64c-55bfa65c6dff
 resourcetype: Document
 title: 'Chapter 8: BBNN: Basic Model '
 uid: 2ab20453-3af0-9602-dee9-d06124867a7a

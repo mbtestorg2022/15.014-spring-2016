@@ -6,6 +6,7 @@ description: 'A lecture about offshoring practices of manufacturing and services
   Singapore'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/4682844493160547c7d1f1f75188e9de_MIT15_014S16_L8Offshoring.pdf
 file_type: application/pdf
+parent_uid: 8cd9ac85-fda6-ce94-9367-2bea556c354b
 resourcetype: Document
 title: Countries' Offshoring Game
 uid: 46828444-9316-0547-c7d1-f1f75188e9de

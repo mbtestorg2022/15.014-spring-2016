@@ -12,7 +12,7 @@ Lectures: 3 sessions / week, 90 minutes / session
 Prerequisites
 -------------
 
-The prerequisite for this course is [_15.012 Applied Macro- and International Economics_](/courses/15-012-applied-macro-and-international-economics-spring-2011/) for MBAs or [_15.015 Macro and International Economics_](/courses/15-015-macro-and-international-economics-fall-2011/) for Sloan Fellows.
+The prerequisite for this course is [_15.012 Applied Macro- and International Economics_](/courses/15-012-applied-macro-and-international-economics-spring-2011) for MBAs or [_15.015 Macro and International Economics_](/courses/15-015-macro-and-international-economics-fall-2011) for Sloan Fellows.
 
 Course Overview
 ---------------
